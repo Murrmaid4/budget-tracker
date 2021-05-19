@@ -54,7 +54,17 @@ The tech used on this project include node, manifest, service workers, Javascrip
  
 
 ## Images
-later
+The initial main page:
+
+![ss1](https://user-images.githubusercontent.com/78389456/118749944-7e2ecc00-b82c-11eb-9bd0-1d5690049d51.jpg)
+
+What it looks like with transactions: 
+
+![ss2](https://user-images.githubusercontent.com/78389456/118749945-7ec76280-b82c-11eb-9595-7ea05d081101.jpg)
+
+The install Budget Tracker download icon: 
+
+![ss3](https://user-images.githubusercontent.com/78389456/118749946-7ec76280-b82c-11eb-878b-a87a4ad9fdd8.jpg)
  
 ## Tests
  no testing needed 
