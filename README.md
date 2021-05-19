@@ -6,6 +6,8 @@
 
 This is a progressive budget tracking app that allows the user to keep track of their finances on AND offline.
 
+View the app here: https://budgetpls.herokuapp.com/
+
 ## Table of Contents 
 
   - [Installation](#installation)
